@@ -1,6 +1,6 @@
 {
-  "name": "Neptune USD",
-  "symbol": "USDN",
+  "name": "Neptune Protocol Token",
+  "symbol": "NPT",
   "image": "https://raw.githubusercontent.com/Hydrogen-Labs/neptune-token-mint/refs/heads/main/npt.png",
   "description": "Netpune Protocol Token"
 }
